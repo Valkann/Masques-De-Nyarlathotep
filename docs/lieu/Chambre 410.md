@@ -6,7 +6,7 @@ category: lieu
 banner: "![Side-Murder-01.webp](../images/Side-Murder-01.webp)"
 banner_y: 0.832
 ---
-Campagne:: [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
+Campagne:: [Les Masques de Nyarlathotep](../Les%20Masques%20de%20Nyarlathotep.md)
 Type:: #lieu
 Emplacement:: [Hôtel Chelsea](./H%C3%B4tel%20Chelsea.md)
 
