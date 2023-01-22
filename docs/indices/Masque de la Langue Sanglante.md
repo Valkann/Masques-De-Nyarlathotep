@@ -4,7 +4,7 @@ Alias:
 share: true
 category: indices
 ---
-Campagne:: [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
+Campagne:: [Les Masques de Nyarlathotep](../Les%20Masques%20de%20Nyarlathotep.md)
 Type:: #indice
 Emplacement:: [Boutique Ju-Ju](../lieu/Boutique%20Ju-Ju.md)
 ***
