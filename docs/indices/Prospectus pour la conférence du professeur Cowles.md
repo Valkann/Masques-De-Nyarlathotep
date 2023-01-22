@@ -5,7 +5,7 @@ share: true
 category: indices
 banner: "![prospectus_pour_la_confrence_du_professeur_cowles.jpg](../images/prospectus_pour_la_confrence_du_professeur_cowles.jpg)"
 ---
-Campagne:: [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
+Campagne:: [Les Masques de Nyarlathotep](../Les%20Masques%20de%20Nyarlathotep.md)
 Type:: #indice 
 Emplacement:: [Chambre 410](../lieu/Chambre%20410.md)
 
