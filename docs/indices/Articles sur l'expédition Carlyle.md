@@ -6,7 +6,7 @@ category: indices
 banner: "![adieu-new-york_1_.jpg](../images/adieu-new-york_1_.jpg)"
 banner_y: 0.776
 ---
-Campagne:: [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
+Campagne:: [Les Masques de Nyarlathotep](../Les%20Masques%20de%20Nyarlathotep.md)
 Type:: #indice
 Emplacement:: 
 
