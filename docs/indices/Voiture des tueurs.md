@@ -5,7 +5,7 @@ share: true
 category: indices
 banner: "![voiture_des_tueurs.png](../images/voiture_des_tueurs.png)"
 ---
-Campagne:: [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
+Campagne:: [Les Masques de Nyarlathotep](../Les%20Masques%20de%20Nyarlathotep.md)
 Type:: #indice 
 Emplacement:: [Hôtel Chelsea](../lieu/H%C3%B4tel%20Chelsea.md)
 ***
