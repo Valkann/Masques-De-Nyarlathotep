@@ -6,7 +6,7 @@ category: indices
 banner: "![carte_de_visite_de_emerson_import_recto.png](../images/carte_de_visite_de_emerson_import_recto.png)"
 banner_y: 0.196
 ---
-Campagne:: [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
+Campagne:: [Les Masques de Nyarlathotep](../Les%20Masques%20de%20Nyarlathotep.md)
 Type:: #indice 
 Emplacement:: [Chambre 410](../lieu/Chambre%20410.md)
 

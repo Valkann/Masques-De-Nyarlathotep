@@ -6,7 +6,7 @@ category: indices
 banner: "![tigre-allumettes.jpg](../images/tigre-allumettes.jpg)"
 banner_y: 0.24
 ---
-Campagne:: [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
+Campagne:: [Les Masques de Nyarlathotep](../Les%20Masques%20de%20Nyarlathotep.md)
 Type:: #indice 
 Emplacement :: [Chambre 410](../lieu/Chambre%20410.md)
 

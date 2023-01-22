@@ -6,7 +6,7 @@ category: indices
 banner: "![voiture_des_tueurs.png](../images/voiture_des_tueurs.png)"
 banner_y: 0.712
 ---
-Campagne:: [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
+Campagne:: [Les Masques de Nyarlathotep](../Les%20Masques%20de%20Nyarlathotep.md)
 Type:: #indice 
 Emplacement:: [New York](New%20York.md)
 ***

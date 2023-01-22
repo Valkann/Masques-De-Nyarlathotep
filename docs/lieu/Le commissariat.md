@@ -10,7 +10,7 @@ Alias :
 Type:: [lieu](lieu.md)
 Source:: [New York](New%20York.md)
 Campagne ::
-- [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
+- [Les Masques de Nyarlathotep](../Les%20Masques%20de%20Nyarlathotep.md)
 Tags:: 
 
 ---

@@ -5,7 +5,7 @@ Alias :
 share: true
 category: lieu
 ---
-Campagne:: [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
+Campagne:: [Les Masques de Nyarlathotep](../Les%20Masques%20de%20Nyarlathotep.md)
 Type:: #lieu 
 Emplacement:: [New York](New%20York.md)
 ***

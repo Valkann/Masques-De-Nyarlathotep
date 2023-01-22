@@ -5,7 +5,7 @@ share: true
 category: lieu
 banner: "![hotel_chelsea.png](../images/hotel_chelsea.png)"
 ---
-Campagne:: [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
+Campagne:: [Les Masques de Nyarlathotep](../Les%20Masques%20de%20Nyarlathotep.md)
 Type:: #lieu
 Emplacement:: [New York](New%20York.md)
 ***

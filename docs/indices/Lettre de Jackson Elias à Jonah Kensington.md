@@ -6,7 +6,7 @@ category: indices
 banner: "![lettre-de-jackson-elias-a-jonah-kensington.jpg](../images/lettre-de-jackson-elias-a-jonah-kensington.jpg)"
 banner_y: 0.316
 ---
-Campagne:: [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
+Campagne:: [Les Masques de Nyarlathotep](../Les%20Masques%20de%20Nyarlathotep.md)
 Type:: #indice
 Emplacement:: [Prospero Press](../lieu/Prospero%20Press.md)
 ***

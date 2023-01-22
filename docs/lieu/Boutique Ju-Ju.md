@@ -5,7 +5,7 @@ share: true
 category: lieu
 banner: "![side-ju-ju-house-01_1_.jpg](../images/side-ju-ju-house-01_1_.jpg)"
 ---
-Campagne:: [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
+Campagne:: [Les Masques de Nyarlathotep](../Les%20Masques%20de%20Nyarlathotep.md)
 Type:: #lieu 
 Emplacement:: [New York](New%20York.md)
 ***
