@@ -3,18 +3,18 @@ Created: 2021-09-11
 Alias:
 share: true
 category: indices
-banner: "![[../images/pranga.jpg|pranga.jpg]]"
+banner: "![pranga.jpg](../images/pranga.jpg)"
 banner_y: 0.856
 ---
-Campagne:: [[../../Les Masques de Nyarlathotep|Les Masques de Nyarlathotep]]
+Campagne:: [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
 Type:: #indice 
-Emplacement:: [[../../Chambre 410|Chambre 410]]
+Emplacement:: [Chambre 410](../../Chambre%20410.md)
 
 ***
 # Étrange épée
 
 ## Description
 
-![[../images/pranga.jpg|pranga.jpg]]
+![pranga.jpg](../images/pranga.jpg)
 
 Un étrange épée d'origine africaine.
