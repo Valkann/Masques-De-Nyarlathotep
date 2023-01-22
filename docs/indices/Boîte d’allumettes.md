@@ -8,7 +8,7 @@ banner_y: 0.24
 ---
 Campagne:: [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
 Type:: #indice 
-Emplacement :: [Chambre 410](../../Chambre%20410.md)
+Emplacement :: [Chambre 410](../lieu/Chambre%20410.md)
 
 ***
 
