@@ -6,7 +6,7 @@ category: indices
 banner: "![marque_sur_le_front_delias.jpg](../images/marque_sur_le_front_delias.jpg)"
 banner_y: 0.404
 ---
-Campagne:: [Les Masques de Nyarlathotep](../../Les%20Masques%20de%20Nyarlathotep.md)
+Campagne:: [Les Masques de Nyarlathotep](../Les%20Masques%20de%20Nyarlathotep.md)
 Type:: #indice 
 Emplacement:: [Chambre 410](../lieu/Chambre%20410.md)
 
